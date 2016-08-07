@@ -1,0 +1,604 @@
+1 #001
+2 Bulbasaur
+3 Grass
+4 Poison 
+1 #002
+2 Ivysaur
+3 Grass
+4 Poison 
+1 #003
+2 Venusaur
+3 Grass
+4 Poison 
+1 #004
+2 Charmander
+3 Fire 
+4 
+1 #005
+2 Charmeleon
+3 Fire
+4 
+1 #006
+2 Charizard
+3 Fire
+4 Flying 
+1 #007
+2 Squirtle
+3 Water 
+4 
+1 #008
+2 Wartortle
+3 Water 
+4 
+1 #009
+2 Blastoise
+3 Water 
+4 
+1 #010
+2 Caterpie
+3 Bug
+4 
+1 #011
+2 Metapod
+3 Bug 
+4 
+1 #012
+2 Butterfree
+3 Bug
+4 Flying 
+1 #013
+2 Weedle
+3 Bug
+4 Poison 
+1 #014
+2 Kakuna
+3 Bug
+4 Poison 
+1 #015
+2 Beedrill
+3 Bug
+4 Poison
+1 #016
+2 Pidgey
+3 Normal
+4 Flying 
+1 #017
+2 Pidgeotto
+3 Normal
+4 Flying 
+1 #018
+2 Pidgeot
+3 Normal
+4 Flying 
+1 #019
+2 Rattata
+3 Normal 
+4 
+1 #020
+2 Raticate
+3 Normal
+4 
+1 #021
+2 Spearow
+3 Normal
+4 Flying 
+1 #022
+2 Fearow
+3 Normal
+4 Flying 
+1 #023
+2 Ekans
+3 Poison 
+4 
+1 #024
+2 Arbok
+3 Poison 
+4 
+1 #025
+2 Pikachu
+3 Electric
+4 
+1 #026
+2 Raichu
+3 Electric 
+4 
+1 #027
+2 Sandshrew
+3 Ground 
+4 
+1 #028
+2 Sandslash
+3 Ground 
+4 
+1 #029
+2 Nidoran♀
+3 Poison 
+4 
+1 #030
+2 Nidorina
+3 Poison
+4 
+1 #031
+2 Nidoqueen
+3 Poison
+4 Ground 
+1 #032
+2 Nidoran♂
+3 Poison 
+4 
+1 #033
+2 Nidorino
+3 Poison 
+4 
+1 #034
+2 Nidoking
+3 Poison
+4 Ground 
+1 #035
+2 Clefairy
+3 Fairy
+4 
+1 #036
+2 Clefable
+3 Fairy 
+4 
+1 #037
+2 Vulpix
+3 Fire 
+4 
+1 #038
+2 Ninetales
+3 Fire 
+4 
+1 #039
+2 Jigglypuff
+3 Normal
+4 Fairy 
+1 #040
+2 Wigglytuff
+3 Normal
+4 Fairy
+1 #041
+2 Zubat
+3 Poison
+4 Flying 
+1 #042
+2 Golbat
+3 Poison
+4 Flying 
+1 #043
+2 Oddish
+3 Grass
+4 Poison 
+1 #044
+2 Gloom
+3 Grass
+4 Poison 
+1 #045
+2 Vileplume
+3 Grass
+4 Poison
+1 #046
+2 Paras
+3 Bug
+4 Grass 
+1 #047
+2 Parasect
+3 Bug
+4 Grass 
+1 #048
+2 Venonat
+3 Bug
+4 Poison 
+1 #049
+2 Venomoth
+3 Bug
+4 Poison 
+1 #050
+2 Diglett
+3 Ground
+4 
+1 #051
+2 Dugtrio
+3 Ground 
+4 
+1 #052
+2 Meowth
+3 Normal 
+4 
+1 #053
+2 Persian
+3 Normal 
+4 
+1 #054
+2 Psyduck
+3 Water 
+4 
+1 #055
+2 Golduck
+3 Water
+4 
+1 #056
+2 Mankey
+3 Fighting 
+4 
+1 #057
+2 Primeape
+3 Fighting 
+4 
+1 #058
+2 Growlithe
+3 Fire 
+4 
+1 #059
+2 Arcanine
+3 Fire 
+4 
+1 #060
+2 Poliwag
+3 Water
+4 
+1 #061
+2 Poliwhirl
+3 Water 
+4 
+1 #062
+2 Poliwrath
+3 Water
+4 Fighting 
+1 #063
+2 Abra
+3 Psychic 
+4 
+1 #064
+2 Kadabra
+3 Psychic 
+4 
+1 #065
+2 Alakazam
+3 Psychic
+4 
+1 #066
+2 Machop
+3 Fighting 
+4 
+1 #067
+2 Machoke
+3 Fighting 
+4 
+1 #068
+2 Machamp
+3 Fighting 
+4 
+1 #069
+2 Bellsprout
+3 Grass
+4 Poison 
+1 #070
+2 Weepinbell
+3 Grass
+4 Poison
+1 #071
+2 Victreebel
+3 Grass
+4 Poison 
+1 #072
+2 Tentacool
+3 Water
+4 Poison 
+1 #073
+2 Tentacruel
+3 Water
+4 Poison 
+1 #074
+2 Geodude
+3 Rock
+4 Ground 
+1 #075
+2 Graveler
+3 Rock
+4 Ground
+1 #076
+2 Golem
+3 Rock
+4 Ground 
+1 #077
+2 Ponyta
+3 Fire 
+4 
+1 #078
+2 Rapidash
+3 Fire 
+4 
+1 #079
+2 Slowpoke
+3 Water
+4 Psychic 
+1 #080
+2 Slowbro
+3 Water
+4 Psychic
+1 #081
+2 Magnemite
+3 Electric
+4 Steel 
+1 #082
+2 Magneton
+3 Electric
+4 Steel 
+1 #083
+2 Farfetch'd
+3 Normal
+4 Flying 
+1 #084
+2 Doduo
+3 Normal
+4 Flying 
+1 #085
+2 Dodrio
+3 Normal
+4 Flying
+1 #086
+2 Seel
+3 Water 
+4 
+1 #087
+2 Dewgong
+3 Water
+4 Ice 
+1 #088
+2 Grimer
+3 Poison 
+4 
+1 #089
+2 Muk
+3 Poison 
+4 
+1 #090
+2 Shellder
+3 Water
+4 
+1 #091
+2 Cloyster
+3 Water
+4 Ice 
+1 #092
+2 Gastly
+3 Ghost
+4 Poison 
+1 #093
+2 Haunter
+3 Ghost
+4 Poison 
+1 #094
+2 Gengar
+3 Ghost
+4 Poison 
+1 #095
+2 Onix
+3 Rock
+4 Ground
+1 #096
+2 Drowzee
+3 Psychic 
+4 
+1 #097
+2 Hypno
+3 Psychic 
+4 
+1 #098
+2 Krabby
+3 Water 
+4 
+1 #099
+2 Kingler
+3 Water 
+4 
+1 #100
+2 Voltorb
+3 Electric
+4 
+1 #101
+2 Electrode
+3 Electric 
+4 
+1 #102
+2 Exeggcute
+3 Grass
+4 Psychic 
+1 #103
+2 Exeggutor
+3 Grass
+4 Psychic 
+1 #104
+2 Cubone
+3 Ground 
+4 
+1 #105
+2 Marowak
+3 Ground
+4 
+1 #106
+2 Hitmonlee
+3 Fighting 
+4 
+1 #107
+2 Hitmonchan
+3 Fighting 
+4 
+1 #108
+2 Lickitung
+3 Normal 
+4 
+1 #109
+2 Koffing
+3 Poison 
+4 
+1 #110
+2 Weezing
+3 Poison
+4 
+1 #111
+2 Rhyhorn
+3 Ground
+4 Rock 
+1 #112
+2 Rhydon
+3 Ground
+4 Rock 
+1 #113
+2 Chansey
+3 Normal 
+4 
+1 #114
+2 Tangela
+3 Grass 
+4 
+1 #115
+2 Kangaskhan
+3 Normal
+4 
+1 #116
+2 Horsea
+3 Water 
+4 
+1 #117
+2 Seadra
+3 Water 
+4 
+1 #118
+2 Goldeen
+3 Water 
+4 
+1 #119
+2 Seaking
+3 Water 
+4 
+1 #120
+2 Staryu
+3 Water
+4 
+1 #121
+2 Starmie
+3 Water
+4 Psychic 
+1 #122
+2 Mr
+3 Mime
+4 Fairy 
+1 #123
+2 Scyther
+3 Bug
+4 Flying 
+1 #124
+2 Jynx
+3 Ice
+4 Psychic 
+1 #125
+2 Electabuzz
+3 Electric
+4 
+1 #126
+2 Magmar
+3 Fire 
+4 
+1 #127
+2 Pinsir
+3 Bug 
+4 
+1 #128
+2 Tauros
+3 Normal 
+4 
+1 #129
+2 Magikarp
+3 Water 
+4 
+1 #130
+2 Gyarados
+3 Water
+4 Flying
+1 #131
+2 Lapras
+3 Water
+4 Ice 
+1 #132
+2 Ditto
+3 Normal 
+4 
+1 #133
+2 Eevee
+3 Normal 
+4 
+1 #134
+2 Vaporeon
+3 Water 
+4 
+1 #135
+2 Jolteon
+3 Electric
+4 
+1 #136
+2 Flareon
+3 Fire 
+4 
+1 #137
+2 Porygon
+3 Normal 
+4 
+1 #138
+2 Omanyte
+3 Rock
+4 Water 
+1 #139
+2 Omastar
+3 Rock
+4 Water 
+1 #140
+2 Kabuto
+3 Rock
+4 Water
+1 #141
+2 Kabutops
+3 Rock
+4 Water 
+1 #142
+2 Aerodactyl
+3 Rock
+4 Flying 
+1 #143
+2 Snorlax
+3 Normal 
+4 
+1 #144
+2 Articuno
+3 Ice
+4 Flying 
+1 #145
+2 Zapdos
+3 Electric
+4 Flying
+1 #146
+2 Moltres
+3 Fire
+4 Flying 
+1 #147
+2 Dratini
+3 Dragon 
+4 
+1 #148
+2 Dragonair
+3 Dragon 
+4 
+1 #149
+2 Dragonite
+3 Dragon
+4 Flying 
+1 #150
+2 Mewtwo
+3 Psychic
+4 
+1 #151
+2 Mew
+3 Psychic
+4 
